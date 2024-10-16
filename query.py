@@ -1,8 +1,3 @@
-""" 
-    Copyright: NarrateAR
-    Contact: Sarah Daeun Kim (daeun@narratear.com) 
-"""
-
 import argparse
 import os
 from openai import OpenAI
