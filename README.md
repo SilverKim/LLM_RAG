@@ -1,5 +1,4 @@
 ## Copywrite
-* NarrateAR
 * Contact for inquiry: Sarah Daeun Kim (daeun@narratear.com)
 
 - **documents**: This folder contains input files (pdf)
